@@ -4,13 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "LOL maybe tomorrow"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-jest": "^18.0.0",
-    "babel-preset-es2015": "^6.18.0",
-    "jest": "^18.1.0"
+    "babel-preset-es2015": "^6.18.0"
   }
 }
