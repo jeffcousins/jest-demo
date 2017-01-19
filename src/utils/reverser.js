@@ -1,8 +1,5 @@
 const reverser = (string) => {
-  var reversed = string.split('').reverse().join('');
-
-  return `Original: ${string}
-Reversed: ${reversed}`;
+  return string.split('').reverse().join('');
 }
 
 export default reverser;
