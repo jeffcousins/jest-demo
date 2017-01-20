@@ -1,0 +1,5 @@
+exports[`test should render the header 1`] = `
+<h2>
+  OMG I FCKING LOVE JEST
+</h2>
+`;

@@ -1,10 +1,11 @@
 import React from 'react';
+import Header from './Header';
 
 const App = ({ props }) => {
   return (
     <div className="container">
-      <h1>Hello, world.</h1>
-      <p>
+      <Header />
+      <p className="new-p-tag">
         <img src="google.com/meme.jpg"></img>
         <span className="markup">
           Buttermilk pancakes

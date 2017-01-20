@@ -5,7 +5,7 @@ class Header extends Component {
     super(props);
 
     this.state = {
-      text: 'Hello, world.'
+      text: 'OMG I FCKING LOVE JEST'
     };
   }
 

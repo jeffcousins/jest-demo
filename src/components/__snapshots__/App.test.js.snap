@@ -1,0 +1,17 @@
+exports[`test should render App perfectly 1`] = `
+<div
+  className="container">
+  <h2>
+    OMG I FCKING LOVE JEST
+  </h2>
+  <p
+    className="new-p-tag">
+    <img
+      src="google.com/meme.jpg" />
+    <span
+      className="markup">
+      Buttermilk pancakes
+    </span>
+  </p>
+</div>
+`;
